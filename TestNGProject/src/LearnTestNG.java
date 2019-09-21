@@ -19,4 +19,9 @@ public class LearnTestNG {
 	System.out.println("Navigate");
 		
 	}
+	
+	@Test
+	public void stop() {
+		System.out.println("Close the project");
+	}
 }
